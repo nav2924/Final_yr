@@ -1,0 +1,10 @@
+# Ignore entire train, valid, and test directories
+train/
+valid/
+test/
+saved_models/
+
+# Ignore all .h5 files (anywhere in the repo)
+*.h5
+*.pptx
+*.ppt
